@@ -1,0 +1,36 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "g:\\ue51projets\\menusystemsteam\\menusystem\\source\\menusystem\\menusystemgamemode.cpp",
+        "ProvidedModule": "",
+        "PCH": "g:\\ue51projets\\menusystemsteam\\menusystem\\intermediate\\build\\win64\\menusystemeditor\\development\\engine\\sharedpch.engine.shadowerrors.h.pch",
+        "Includes": [
+            "g:\\ue51projets\\menusystemsteam\\menusystem\\intermediate\\build\\win64\\unrealeditor\\development\\menusystem\\definitions.menusystem.h",
+            "g:\\ue51projets\\menusystemsteam\\menusystem\\source\\menusystem\\menusystemgamemode.h",
+            "u:\\engines\\ue_5.1\\engine\\source\\runtime\\engine\\classes\\gameframework\\gamemodebase.h",
+            "u:\\engines\\ue_5.1\\engine\\source\\runtime\\engine\\classes\\engine\\serverstatreplicator.h",
+            "u:\\engines\\ue_5.1\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\serverstatreplicator.generated.h",
+            "u:\\engines\\ue_5.1\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\gamemodebase.generated.h",
+            "g:\\ue51projets\\menusystemsteam\\menusystem\\intermediate\\build\\win64\\unrealeditor\\inc\\menusystem\\uht\\menusystemgamemode.generated.h",
+            "g:\\ue51projets\\menusystemsteam\\menusystem\\source\\menusystem\\menusystemcharacter.h",
+            "u:\\engines\\ue_5.1\\engine\\source\\runtime\\engine\\classes\\gameframework\\character.h",
+            "u:\\engines\\ue_5.1\\engine\\source\\runtime\\engine\\classes\\gameframework\\charactermovementreplication.h",
+            "u:\\engines\\ue_5.1\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\charactermovementreplication.generated.h",
+            "u:\\engines\\ue_5.1\\engine\\source\\runtime\\engine\\classes\\gameframework\\rootmotionsource.h",
+            "u:\\engines\\ue_5.1\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\rootmotionsource.generated.h",
+            "u:\\engines\\ue_5.1\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\character.generated.h",
+            "u:\\engines\\ue_5.1\\engine\\plugins\\enhancedinput\\source\\enhancedinput\\public\\inputactionvalue.h",
+            "u:\\engines\\ue_5.1\\engine\\plugins\\enhancedinput\\intermediate\\build\\win64\\unrealeditor\\inc\\enhancedinput\\uht\\inputactionvalue.generated.h",
+            "u:\\engines\\ue_5.1\\engine\\plugins\\online\\onlinesubsystem\\source\\public\\onlinesubsystem.h",
+            "u:\\engines\\ue_5.1\\engine\\plugins\\online\\onlinesubsystem\\source\\public\\onlinesubsystemmodule.h",
+            "u:\\engines\\ue_5.1\\engine\\plugins\\online\\onlinesubsystem\\source\\public\\onlinesubsystemtypes.h",
+            "u:\\engines\\ue_5.1\\engine\\plugins\\online\\onlinebase\\source\\public\\online\\onlinebase.h",
+            "u:\\engines\\ue_5.1\\engine\\plugins\\online\\onlinesubsystem\\source\\public\\onlinesubsystemnames.h",
+            "u:\\engines\\ue_5.1\\engine\\plugins\\online\\onlinesubsystem\\source\\public\\onlinesubsystempackage.h",
+            "u:\\engines\\ue_5.1\\engine\\plugins\\online\\onlinesubsystem\\source\\public\\onlinedelegatemacros.h",
+            "g:\\ue51projets\\menusystemsteam\\menusystem\\intermediate\\build\\win64\\unrealeditor\\inc\\menusystem\\uht\\menusystemcharacter.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

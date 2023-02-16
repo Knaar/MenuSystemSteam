@@ -1,0 +1,19 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "g:\\ue51projets\\menusystemsteam\\menusystem\\intermediate\\build\\win64\\unrealeditor\\inc\\menusystem\\uht\\menusystemgamemode.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "g:\\ue51projets\\menusystemsteam\\menusystem\\intermediate\\build\\win64\\menusystemeditor\\development\\engine\\sharedpch.engine.shadowerrors.h.pch",
+        "Includes": [
+            "g:\\ue51projets\\menusystemsteam\\menusystem\\intermediate\\build\\win64\\unrealeditor\\development\\menusystem\\definitions.menusystem.h",
+            "g:\\ue51projets\\menusystemsteam\\menusystem\\source\\menusystem\\menusystemgamemode.h",
+            "u:\\engines\\ue_5.1\\engine\\source\\runtime\\engine\\classes\\gameframework\\gamemodebase.h",
+            "u:\\engines\\ue_5.1\\engine\\source\\runtime\\engine\\classes\\engine\\serverstatreplicator.h",
+            "u:\\engines\\ue_5.1\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\serverstatreplicator.generated.h",
+            "u:\\engines\\ue_5.1\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\gamemodebase.generated.h",
+            "g:\\ue51projets\\menusystemsteam\\menusystem\\intermediate\\build\\win64\\unrealeditor\\inc\\menusystem\\uht\\menusystemgamemode.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
